@@ -2,7 +2,7 @@
 
 This repository contains programs written for the higher-level programming
 track at ALX. In these projects, I'm learning Python, MySQL and JavaScript.
-Simultaneously, I continued to reinforce and expand my skills in C and shell
+Simultaneously, I continue to reinforce and expand my skills in C and shell
 scripting. The specific list of projects contained follows:
 
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
