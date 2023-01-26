@@ -1,6 +1,6 @@
 # Python - Exceptions
 
-In this project, I learned handling errors and exceptions in Python with `try`
+In this project, I learnt handling errors and exceptions in Python with `try`
 and `except`.
 
 
