@@ -13,14 +13,16 @@ scripting. The specific list of projects contained follows:
 * [0x05. Python - Exceptions](./0x05-python-exceptions)
 * [0x06. Python - Classes and Objects](./0x06-python-classes)
 * [0x07. Python - Test-driven development](./0x07-python-test_driven_development)
-
+* [0x08. Python - More Classes and Objects](./0x08-python-more_classes)
+* [0x09. Python - Everything is object](./0x09-python-everything_is_object)
+	
 ## Author :black_nib:
 
 * **Godson Sakawa** <[godsonsakawa](https://github.com/godsonsakawa)>
 
 ## Acknowledgements :pray:
 
-All work contained in this project was completed as part of the curriculum at ALX; ALX is a full-stack software engineering program that prepares students for careers in the tech industry
+All work contained in this project was completed as part of the curriculum. ALX is a full-stack software engineering program that prepares students for careers in the tech industry
 using project-based peer learning. For more information, visit
 [this link](https://www.alxafrica.com/).
 
