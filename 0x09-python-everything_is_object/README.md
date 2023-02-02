@@ -187,7 +187,7 @@ a = (1)
 a = (1, )
 ```
 
-* **24. Richard Sim's special #0**
+* **24. Who I am?**
   * [24-answer.txt](./24-answer.txt): What does this script print?
 ```
 a = (1)
@@ -195,7 +195,7 @@ b = (1)
 a is b
 ```
 
-* **25. Richard Sim's special #1**
+* **25. Tuple or not**
   * [25-answer.txt](./25-answer.txt): What does this script print?
 ```
 a = (1, 2)
@@ -203,7 +203,7 @@ b = (1, 2)
 a is b
 ```
 
-* **26. Richard Sim's special #2**
+* **26. Empty is not Empty**
   * [26-answer.txt](./26-answer.txt): What does this script print?
 ```
 a = ()
@@ -211,7 +211,7 @@ b = ()
 a is b
 ```
 
-* **27. Richard Sim's special #3**
+* **27. Still the same?**
   * [27-answer.txt](./27-answer.txt): Will the last line of this script print `139926795932424`?
 ```
 >>> id(a)
@@ -222,7 +222,7 @@ a is b
 >>> id(a)
 ```
 
-* **28. Richard Sim's special #4**
+* **28. Same or not?**
   * [28-answer.txt](./28-answer.txt): Will the last line of this script print `139926795932424`?
 ```
 >>> a
