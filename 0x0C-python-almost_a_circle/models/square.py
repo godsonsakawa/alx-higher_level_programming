@@ -69,9 +69,9 @@ class Square(Rectangle):
                 elif k == "size":
                     self.size = v
                 elif k == "x":
-                    self.size = v
+                    self.x = v
                 elif k == "y":
-                    self.size = v
+                    self.y = v
 
     def __str__(self):
         """Return the print() and str() representation of a Square."""
