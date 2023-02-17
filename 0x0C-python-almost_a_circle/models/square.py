@@ -13,7 +13,11 @@ class Square(Rectangle):
             size (int): The size of the new Square.
             x (int): The x coordinate of the new Square.
             y (int): The y coordinate of the new Square.
-            id (int): The identity of the new Square.
+            id (int): The identity of the new Squareself.
+
+        The super class uses the logic of the __init__ of the
+        Rectangle class. Width and height is assigned to the
+        value of size.
         """
         super().__init__(size, size, x, y, id)
 
